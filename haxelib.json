@@ -13,5 +13,6 @@
     "tink_lang": "",
     "tink_macro": "",
     "tink_xml": ""
-  }
+  },
+  "main": "net.pickhaxe.tools.Main"
 }
